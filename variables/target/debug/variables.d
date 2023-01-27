@@ -1,1 +1,1 @@
-/mnt/c/code/rusty/variables/target/debug/variables: /mnt/c/code/rusty/variables/src/main.rs
+/mnt/c/code/rusty/rust-bk/variables/target/debug/variables: /mnt/c/code/rusty/rust-bk/variables/src/main.rs
